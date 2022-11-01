@@ -337,8 +337,8 @@ li a {
 .software>.content {
     display: flex;
     flex-direction: column;
-    max-width: 600px;
-    margin-left: 905px;
+    max-width: 560px;
+    margin-left: 940px;
 }
 
 
@@ -355,16 +355,18 @@ li a {
 }
 
 .software>.content>h2 {
+    text-align: left;
     margin-top: 40px;
     font-size: 50px;
     font-weight: 600;
     letter-spacing: -0.03em;
     color: #192b59;
     max-width: 550px;
+    margin-bottom: 0px;
 }
 
 .software>.content>dl {
-    margin-top: 40px;
+    margin-top: 20px;
     max-width: 600px;
 }
 
